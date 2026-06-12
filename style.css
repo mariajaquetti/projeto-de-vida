@@ -1,18 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
 :root {
-    --cor-de-fundo: #530505;
-    --verde: #d330aa;
+    --cor-de-fundo: #b90057;
+    --verde: #ebabd2;
     --branco: #FFFFFF;
-    --botao-ativo: #908f9b;
-    --botao-inativo: rgba(91, 55, 94, 0.5);
-    --texto-fundo: rgba(31, 27, 77, 0.3);
+    --botao-ativo: #b97c9e;
+    --botao-inativo: rgba(148, 65, 118, 0.5);
+    --texto-fundo: rgba(121, 40, 87, 0.3);
 }
 
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco);
-    font-family: 'Chakra Petch', sans-serif;
+    font-family: 'Playfair Display', sans-serif;
 }
 
 
